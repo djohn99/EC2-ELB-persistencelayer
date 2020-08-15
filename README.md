@@ -74,4 +74,4 @@ Apply complete! Resources: 23 added, 0 changed, 0 destroyed.
 $ terraform plan -out=plan.out
 $ terraform show -json plan.out > plan.json
 ```
-<!-- go to https://hieven.github.io/ and upload the plan.json to see the output -->
+<!-- go to https://hieven.github.io/ and upload the plan.json to see the output. -->
